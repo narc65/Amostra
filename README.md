@@ -1,0 +1,2 @@
+# Amostra
+Amostra de tela
